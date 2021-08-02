@@ -1,0 +1,17 @@
+{
+  "name": "plugify-blessed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "node-fetch": "^2.6.1",
+    "ws": "^8.0.0"
+  }
+}
